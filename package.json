@@ -1,0 +1,23 @@
+{
+  "name": "dajocloud",
+  "version": "1.0.0",
+  "description": "Gossip implementation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddjohn/dajocloud.git"
+  },
+  "author": "David Johansson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddjohn/dajocloud/issues"
+  },
+  "homepage": "https://github.com/ddjohn/dajocloud#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
